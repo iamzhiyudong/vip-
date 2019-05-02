@@ -1,0 +1,137 @@
+.all {}
+
+.top_img {}
+
+.mangguo_a,
+.mangguo_a:link,
+.mangguo_a:visited,
+.mangguo_a:hover,
+.mangguo_a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.cssshadow {
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+}
+
+.tishi {
+    background: #f82727;
+    font-size: 6px;
+    margin-bottom: 3px;
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+}
+
+.tishi2 {
+    background: #414141;
+    font-size: 6px;
+    margin-bottom: 3px;
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+}
+
+.mangguo_img {
+    width: 60px;
+    height: 40px;
+    border-radius: 6%;
+    margin-right: 8px;
+    margin-top: 3px;
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+    margin-bottom: 0px;
+}
+
+.input_box {
+    font-size: 13px;
+    margin-top: 0px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #24ad79;
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+}
+
+.input_box input {
+    border-radius: 5px;
+    padding: 4px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 13px/100% Verdana, Tahoma, sans-serif;
+    width: 200px;
+    background: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+
+.input_box label {
+    display: inline-block;
+}
+
+.button_box {
+    margin-top: 3px;
+}
+
+.button_box button {
+    font: white;
+    margin: 0;
+    padding: 0;
+    border: 1px solid transparent;
+    outline: none;
+    width: 100%;
+    height: 30px;
+    background-color: #76a1b6;
+    border-radius: 2%;
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+}
+
+.play_box {
+    margin-top: 3px;
+    height: 230px;
+    -moz-box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    -webkit-box-shadow: 3px 3px 3px rgb(116, 114, 114)00;
+    box-shadow: 3px 3px 3px rgb(116, 114, 114);
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)')";
+    /* For IE 5.5 - 7 */
+    filter: progid: DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='rgb(116, 114, 114)');
+}
+
+.foot {
+    margin-top: 20px;
+    font-size: 12px;
+    font: #747373;
+}
